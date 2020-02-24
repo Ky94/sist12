@@ -11,5 +11,6 @@ public class Hello {
 		
 		// 코딩 수정
 		System.out.println("Edit.");
+		System.out.println("2번째 수정Edit.");
 	}
 }
