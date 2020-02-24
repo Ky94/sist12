@@ -8,5 +8,8 @@ public class Hello {
 		
 		// 홍길동 자바파일 수정.
 		System.out.println("Hong Edit.");
+		
+		// 코딩 수정
+		System.out.println("Edit.");
 	}
 }
